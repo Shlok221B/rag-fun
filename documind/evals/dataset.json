@@ -1,0 +1,25 @@
+
+[
+    {
+      "id": 1,
+      "question": "What is the paternity leave policy?",
+      "expected_answer": "Male employees receive 10 working days of paternity leave, which must be used within 6 months of the child's birth.",
+      "expected_chunk_ids": ["4"],
+      "answerable": true
+    },
+    {
+      "id": 2,
+      "question": "What is the notice period for employees?",
+      "expected_answer": "Permanent employees must provide 60 calendar days' notice before resignation.",
+      "expected_chunk_ids": ["12"],
+      "answerable": true
+    },
+    {
+      "id": 3,
+      "question": "What is the company's annual bonus policy?",
+      "expected_answer": "The handbook does not contain information about an annual bonus policy.",
+      "expected_chunk_ids": [],
+      "answerable": false
+    }
+  ]
+  

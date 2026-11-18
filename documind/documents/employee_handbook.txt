@@ -1,0 +1,152 @@
+# NOVATECH SOLUTIONS
+## Employee Handbook
+**Version:** 1.0  
+**Effective Date:** 1 January 2026
+
+*Note: Novatech Solutions is a fictional company. All policies below are sample data for software development and RAG testing.*
+
+---
+
+## 1. Company Overview
+
+Novatech Solutions is a technology company headquartered in Pune, Maharashtra, India. The company provides software development, cloud computing, and artificial intelligence solutions.
+
+Our standard working hours are 9:30 AM to 6:30 PM, Monday through Friday.
+
+Employees are expected to maintain professionalism, respect colleagues, and protect company information.
+
+## 2. Leave Policy
+
+All full-time employees are eligible for the following annual leave benefits:
+
+| Leave Type | Annual Entitlement |
+|---|---:|
+| Casual Leave (CL) | 12 days |
+| Sick Leave (SL) | 10 days |
+| Earned Leave (EL) | 15 days |
+| Public Holidays | 10 days |
+
+### 2.1 Casual Leave
+- Employees receive 12 casual leave days per calendar year.
+- Casual leave can be taken for personal matters.
+- Employees should apply at least 2 working days in advance.
+- Unused casual leave cannot be carried forward.
+
+### 2.2 Sick Leave
+- Employees receive 10 sick leave days per year.
+- A medical certificate may be requested for sick leave exceeding 2 consecutive working days.
+- Employees should notify their manager as soon as possible.
+
+### 2.3 Earned Leave
+- Employees receive 15 earned leave days annually.
+- Earned leave can be carried forward up to a maximum balance of 30 days.
+- Leave exceeding the carry-forward limit will lapse.
+
+### 2.4 Maternity and Paternity Leave
+- Eligible female employees receive maternity leave according to applicable Indian law.
+- Male employees receive 10 working days of paternity leave.
+- Paternity leave must be used within 6 months of the child's birth.
+
+## 3. Work From Home Policy
+
+- Employees may work remotely up to 2 days per week.
+- Remote work requires prior manager approval.
+- Employees must remain available during core working hours (10 AM to 5 PM).
+- Employees working remotely must ensure they have a stable internet connection.
+- New employees in their first 30 days must work from the office unless an exception is approved.
+
+## 4. Attendance Policy
+
+- Standard working hours are 9:30 AM to 6:30 PM.
+- Employees are allowed a grace period of 15 minutes.
+- More than 3 late arrivals in a calendar month may result in a discussion with the manager.
+- Employees must record attendance through the company's HR portal.
+- Any attendance correction request must be submitted within 3 working days.
+
+## 5. Salary and Payroll
+
+- Salaries are paid on the last working day of each month.
+- Salary is transferred directly to the employee's registered bank account.
+- Employees must submit their bank details and tax declarations during onboarding.
+- Salary slips are available through the HR portal.
+- Payroll-related queries should be sent to payroll@novatech.example.
+
+## 6. Probation Policy
+
+- New employees undergo a probation period of 6 months.
+- During probation, performance and conduct are evaluated by the reporting manager.
+- The company may extend probation by up to 3 months if performance expectations are not met.
+- Confirmation of employment is communicated through an official email.
+- Probationary employees are eligible for casual and sick leave.
+
+## 7. Performance Reviews
+
+- Performance reviews are conducted twice a year, in June and December.
+- Reviews consider technical performance, communication, teamwork, ownership, and goal completion.
+- Salary revisions and promotions depend on performance, business requirements, and management approval.
+- Employees are encouraged to maintain quarterly performance goals.
+
+## 8. Employee Expenses
+
+Employees may claim reimbursement for approved business expenses.
+
+| Expense Category | Maximum Reimbursement |
+|---|---:|
+| Internet Allowance | ₹1,000/month |
+| Mobile Allowance | ₹500/month |
+| Local Travel | ₹3,000/month |
+| Client Meals | ₹2,000 per meeting |
+
+- Expense claims must include valid receipts.
+- Claims must be submitted within 30 days of the expense.
+- Manager approval is mandatory.
+- Personal expenses are not reimbursable.
+
+## 9. Code of Conduct
+
+Employees must:
+- Treat colleagues with respect.
+- Avoid discrimination and harassment.
+- Maintain confidentiality of company and client information.
+- Avoid conflicts of interest.
+- Use company equipment responsibly.
+- Follow applicable laws and company policies.
+
+Any form of workplace harassment should be reported to HR.
+
+## 10. Information Security
+
+- Employees must never share company passwords.
+- Multi-factor authentication must be enabled on company accounts.
+- Confidential documents must only be shared with authorized individuals.
+- Company data must not be stored on personal cloud accounts without approval.
+- Security incidents must be reported immediately to the IT department.
+
+## 11. Resignation and Notice Period
+
+- Permanent employees must provide 60 calendar days' notice before resignation.
+- Employees must submit resignation through the HR portal.
+- Managers may approve an early release depending on business requirements.
+- Employees must return company assets before their final working day.
+- Final settlement is processed within 45 days of the employee's last working day, subject to applicable clearances.
+
+## 12. Company Holidays
+
+The company observes 10 public holidays annually. The official holiday calendar is shared by HR at the beginning of each calendar year.
+
+Employees working on designated public holidays may be eligible for compensatory leave, subject to manager approval.
+
+## 13. HR Contact Information
+
+For HR-related questions:
+
+**Email:** hr@novatech.example  
+**Office:** Pune, Maharashtra, India  
+**Working Days:** Monday to Friday  
+**Working Hours:** 9:30 AM – 6:30 PM
+
+---
+
+**End of Employee Handbook**
+
+*This is a fictional sample document for RAG development and testing. It is not an actual employment policy or legal advice.*
